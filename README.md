@@ -7,7 +7,7 @@ Merhaba! Ben Hazal, bilgisayar mühendisliği alanında kendimi geliştiren ve y
 
 ## 🚀 Kullandığım Teknolojiler
 
-- **Frontend:** HTML, CSS  
+- **Frontend:** HTML, CSS, JavaScript 
 - **Backend:** Django  
 - **Mobil:** Java, Android Studio, Kotlin
 
@@ -17,12 +17,14 @@ Merhaba! Ben Hazal, bilgisayar mühendisliği alanında kendimi geliştiren ve y
 
 - **Yoklama Projesi**  
   Öğrencilerin ve öğretmenlerin yoklama işlemlerini dijitalleştiren bir uygulama.
+  Öğretmenler istediklerinde başlatabiliyor yoklamayı ve istedikleri kadar süre belirleyebiliyorlar, öğrencilerin yüzleri okunarak gelen öğrenciler veri tabanında tutuluyor yoklama saati dolduktan sonra yüzü okunmayan öğrenciler otomatik yok yazılıyor ve bu bir excel dosyasına kaydolup indirilebiliyor. 
 
 - **Android Uygulama Projesi**  
   Android Studio ve Kotlin kullanarak geliştirdiğim çeşitli mobil uygulamalar.
 
 - **Randevu Projesi**  
   Randevu alma ve yönetim süreçlerini kolaylaştıran bir yazılım.
+  Kuafor , berber ve güzellik merkezi randevu sisteminde TUBİTAK BİGG programına ekip arkadaşlarım ve değerli hocam Dr. öğr. Pelin Canbay ile katıldık. İlk aşmayı geçtik fakat 2. aşamada elendik.
 
 ---
 
